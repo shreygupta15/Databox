@@ -4,6 +4,8 @@
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Styling-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+🚀 **Live Demo:** [https://databox-analytics.vercel.app](https://databox-analytics.vercel.app)
+
 **Databox** is a fast, interactive Business Intelligence (BI) dashboard built to help users understand complex data easily. It features a fully customizable drag-and-drop workspace, an AI assistant for data insights, and real-time filtering that can be easily shared via URL links.
 
 ---
